@@ -4,6 +4,8 @@ Gesten-gesteuerte Webcam-Fotos für den Mac: Mit beiden Händen einen Rahmen
 „aufziehen", loslassen – und nach einem 3-Sekunden-Countdown wird der
 Ausschnitt als Foto gespeichert.
 
+![FrameCatch im Einsatz: Beide Hände pinchen und spannen den Aufnahme-Rahmen auf](docs/framecatch-demo.png)
+
 ## Funktionsweise
 
 1. **Rahmen aufziehen:** Mit beiden Händen gleichzeitig eine Pinch-Geste
