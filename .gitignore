@@ -1,0 +1,13 @@
+# Virtuelle Umgebung
+.venv/
+
+# Aufgenommene Fotos
+fotos/
+
+# Python-Artefakte
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
